@@ -78,3 +78,16 @@ Read the full article:
 https://www.grcworldforums.com/governance-risk-and-compliance/nis2-directive-stronger-eu-cybersecurity-in-the-ai-era/9678.article
 
 ![Article header](nis2_header.png)
+
+### Privacy Concerns Slowing UK Decision on Digital Cash
+
+Publication: GRC World Forums  
+Date: January 2024  
+Role: Journalist / writer  
+
+News feature examining how privacy concerns are influencing the UK government’s decision on whether to introduce a “digital pound” central bank digital currency (CBDC). The article explores debates around data protection, financial surveillance and regulatory oversight as policymakers consider how to balance innovation in digital payments with safeguards for personal privacy.
+
+Read the full article:  
+https://www.grcworldforums.com/governance-risk-and-compliance/privacy-concerns-slowing-uk-decision-on-digital-cash/9278.article
+
+![Article header](privacy_header.png)
