@@ -25,4 +25,4 @@ News feature announcing Dr Cari Miller as a speaker at the #RISK A.I. Digital co
 Read the full article:  
 https://www.grcworldforums.com/governance-risk-and-compliance/dr-cari-miller-to-speak-at-risk-ai-digital/9331.article
 
-![Article header](cari_miller_ai_governance_header.png)
+![Article header](cari_header.png)
