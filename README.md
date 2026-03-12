@@ -65,3 +65,16 @@ Read the full article:
 https://www.grcworldforums.com/banking-financial-services-and-insurance-bfsi/meet-the-expert-fincrime-anti-money-laundering-welcomes-sujata-dasgupta/5279.article
 
 ![Article header](sujata_header.png)
+
+### NIS2 Directive: Stronger EU Cybersecurity in the AI Era
+
+Publication: GRC World Forums  
+Date: June 2024  
+Role: Journalist / writer  
+
+News feature analysing the European Union’s NIS2 Directive and its implications for organisational cybersecurity in an era of rapidly expanding artificial intelligence capabilities. The article examines new compliance obligations, governance requirements and the broader push for stronger cyber-resilience across critical sectors operating within the EU.
+
+Read the full article:  
+https://www.grcworldforums.com/governance-risk-and-compliance/nis2-directive-stronger-eu-cybersecurity-in-the-ai-era/9678.article
+
+![Article header](nis2_header.png)
