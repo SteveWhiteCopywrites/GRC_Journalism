@@ -116,4 +116,4 @@ News feature examining how the growing adoption of artificial intelligence is ex
 Read the full article:  
 https://www.grcworldforums.com/information-security/ai-leading-to-reduction-in-staff-numbers/9456.article
 
-![Article header](ai_staff_reduction_header.png)
+![Article header](AI_header.png)
