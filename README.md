@@ -91,3 +91,16 @@ Read the full article:
 https://www.grcworldforums.com/governance-risk-and-compliance/privacy-concerns-slowing-uk-decision-on-digital-cash/9278.article
 
 ![Article header](privacy_header.png)
+
+### AI, AML Regulations and Monitoring Centre Stage at FinCrime Focus: Anti-Money Laundering
+
+Publication: GRC World Forums  
+Date: May 2022  
+Role: Journalist / writer  
+
+News coverage from the FinCrime Focus: Anti-Money Laundering event examining how artificial intelligence, regulatory developments and advanced monitoring systems are reshaping financial crime prevention. The article highlights discussions around building effective AML and KYC compliance programmes and the increasing role of automation and analytics in detecting illicit financial activity.
+
+Read the full article:  
+https://www.grcworldforums.com/banking-financial-services-and-insurance-bfsi/ai-aml-regulations-and-aml-monitoring-centre-stage-at-fincrime-focus-anti-money-laundering/5303.article
+
+![Article header](AML_header.png)
