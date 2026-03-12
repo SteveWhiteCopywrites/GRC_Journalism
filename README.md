@@ -13,3 +13,16 @@ Read the full article:
 https://www.grcworldforums.com/governance-risk-and-compliance/interview-behind-the-great-hack-with-david-carroll/402.article
 
 ![Article header](TGH_header.png)
+
+### Dr Cari Miller to Speak at #RISK A.I. Digital
+
+Publication: GRC World Forums  
+Date: March 2024  
+Role: Journalist / writer  
+
+News feature announcing Dr Cari Miller as a speaker at the #RISK A.I. Digital conference, exploring the growing importance of AI governance, ethical oversight and responsible deployment of artificial intelligence within governance, risk and compliance frameworks.
+
+Read the full article:  
+https://www.grcworldforums.com/governance-risk-and-compliance/dr-cari-miller-to-speak-at-risk-ai-digital/9331.article
+
+![Article header](cari_miller_ai_governance_header.png)
