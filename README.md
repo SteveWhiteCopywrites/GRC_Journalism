@@ -1,5 +1,25 @@
 # GRC Journalism
-A portfolio of Governance, Risk, and Compliance journalism covering news, interviews and features written at GRC World Forums. Topics include: cybersecurity, privacy, financial crime and ESG.
+A portfolio of Governance, Risk, and Compliance journalism covering news, interviews and features written at GRC World Forums. 
+Topics include: cybersecurity, privacy, financial crime and ESG.
+
+# GRC Journalism Portfolio
+
+A curated portfolio of governance, risk and compliance journalism by Steve White published in GRC World Forums.
+
+Topics covered include cybersecurity, privacy, financial crime, AI governance, regulatory policy and digital risk.
+
+## Featured Work
+
+• **Interview: Behind The Great Hack with David Carroll**  
+Interview with the data rights activist whose legal battle with Cambridge Analytica became central to the Netflix documentary *The Great Hack*. https://www.grcworldforums.com/governance-risk-and-compliance/interview-behind-the-great-hack-with-david-carroll/402.article
+
+• **NIS2 Directive: Stronger EU Cybersecurity in the AI Era**  
+Analysis of the EU’s strengthened cybersecurity framework and its implications for organisations across critical sectors.  
+https://www.grcworldforums.com/governance-risk-and-compliance/nis2-directive-stronger-eu-cybersecurity-in-the-ai-era/9678.article
+
+• **Privacy Concerns Slowing UK Decision on Digital Cash**  
+Reporting on the UK debate over a potential digital pound and the privacy implications of central bank digital currency.  
+https://www.grcworldforums.com/governance-risk-and-compliance/privacy-concerns-slowing-uk-decision-on-digital-cash/9278.article
 
 ### Interview: Behind The Great Hack with David Carroll
 
