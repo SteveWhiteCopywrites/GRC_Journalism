@@ -117,3 +117,16 @@ Read the full article:
 https://www.grcworldforums.com/information-security/ai-leading-to-reduction-in-staff-numbers/9456.article
 
 ![Article header](AI_header.png)
+
+### Risk and Reward: How AI Is Driving the US Debt Collection Industry
+
+Publication: GRC World Forums  
+Date: March 2024  
+Role: Journalist / writer  
+
+News feature examining how artificial intelligence is transforming the debt-collection sector in the United States. The article explores how AI-driven analytics, automation and predictive tools are being used to improve efficiency and recovery rates while raising new questions around regulation, fairness and consumer protection.
+
+Read the full article:  
+https://www.grcworldforums.com/information-security/risk-and-reward-how-ai-is-driving-the-us-debt-collection-industry/9361.article
+
+![Article header](Risk_header.png)
