@@ -1,12 +1,6 @@
 # Governance, Risk, and Compliance (GRC) Journalism
 A portfolio of Governance, Risk, and Compliance journalism covering news, interviews and features written at GRC World Forums. 
-Topics include: cybersecurity, privacy, financial crime and ESG.
-
-# GRC Journalism Portfolio
-
-A curated portfolio of governance, risk and compliance journalism by Steve White published in GRC World Forums.
-
-Topics covered include cybersecurity, privacy, financial crime, AI governance, regulatory policy and digital risk.
+Topics include: cybersecurity, privacy, financial crime, risk, AI governance, regulatory policy and ESG.
 
 ## Featured Work
 
