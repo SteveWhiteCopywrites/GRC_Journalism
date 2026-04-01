@@ -36,6 +36,15 @@ Read on [GRC World Forums](https://www.grcworldforums.com/governance-risk-and-co
 
 <img src="images/CariMiller.png" width="600">
 
+### AI, AML Regulations and Monitoring Centre Stage at FinCrime Focus: Anti-Money Laundering
+**5 May 2022:** News coverage from the FinCrime Focus: Anti-Money Laundering event examining how artificial intelligence, regulatory developments and advanced monitoring systems are reshaping financial crime prevention. The article highlights discussions around building effective AML and KYC compliance programmes and the increasing role of automation and analytics in detecting illicit financial activity.
+
+Read on [GRC World Forums](https://www.grcworldforums.com/banking-financial-services-and-insurance-bfsi/ai-aml-regulations-and-aml-monitoring-centre-stage-at-fincrime-focus-anti-money-laundering/5303.article)
+
+<img src="images/aireg1.png" width="600">
+
+<img src="images/aireg2.png" width="600">
+
 ### Meet the Expert: Caro Robson to Speak at #RISK London
 **16 Aug 2023:** News feature announcing international data and technology regulation specialist Caro Robson as a speaker at the #RISK London conference, highlighting her expertise in data governance, privacy regulation and the evolving legal landscape around digital technology and information security.
 
@@ -78,15 +87,6 @@ Read on [GRC World Forums](https://www.grcworldforums.com/governance-risk-and-co
 Read on GRC [World Forums](https://www.grcworldforums.com/governance-risk-and-compliance/privacy-concerns-slowing-uk-decision-on-digital-cash/9278.article)
 
 <img src="images/digitalcash.png" width="600">
-
-### AI, AML Regulations and Monitoring Centre Stage at FinCrime Focus: Anti-Money Laundering
-**5 May 2022:** News coverage from the FinCrime Focus: Anti-Money Laundering event examining how artificial intelligence, regulatory developments and advanced monitoring systems are reshaping financial crime prevention. The article highlights discussions around building effective AML and KYC compliance programmes and the increasing role of automation and analytics in detecting illicit financial activity.
-
-Read on [GRC World Forums](https://www.grcworldforums.com/banking-financial-services-and-insurance-bfsi/ai-aml-regulations-and-aml-monitoring-centre-stage-at-fincrime-focus-anti-money-laundering/5303.article)
-
-<img src="images/aireg1.png" width="600">
-
-<img src="images/aireg2.png" width="600">
 
 ### AI Leading to Reduction in Staff Numbers
 **8 April 2024:** News feature examining how the growing adoption of artificial intelligence is expected to reshape the workforce within cybersecurity and information-security teams. Drawing on industry research and expert commentary, the article explores how automation, machine learning and AI-driven monitoring tools are changing organisational structures and potentially reducing the number of staff required for certain security and compliance functions.
