@@ -47,6 +47,8 @@ Read on [GRC World Forums](https://www.grcworldforums.com/banking-financial-serv
 
 <img src="images/aireg1.png" width="600">
 
+---
+
 <img src="images/aireg2.png" width="600">
 
 ### Meet the Expert: Caro Robson to Speak at #RISK London
@@ -55,6 +57,8 @@ Read on [GRC World Forums](https://www.grcworldforums.com/banking-financial-serv
 Read on [GRC World Forums](https://www.grcworldforums.com/information-security/meet-the-expert-caro-robson-to-speak-at-risk-london/8797.article)
 
 <img src="images/Caro1.png" width="600">
+
+---
 
 <img src="images/Caro2.png" width="600">
 
@@ -65,7 +69,11 @@ Read on [GRC World Forums](https://www.grcworldforums.com/governance-risk-and-co
 
 <img src="images/NIS2a.png" width="600">
 
+---
+
 <img src="images/NIS2b.png" width="600">
+
+---
 
 <img src="images/NIS2c.png" width="600">
 
@@ -75,6 +83,8 @@ Read on [GRC World Forums](https://www.grcworldforums.com/governance-risk-and-co
 Read on [GRC World Forums](https://www.grcworldforums.com/meet-the-expert-women-in-grc-speaker-amii-barnard-bahn/3371.article)
 
 <img src="images/Amy1.png" width="600">
+
+---
 
 <img src="images/Amy2.png" width="600">
 
