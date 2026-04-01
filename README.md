@@ -26,6 +26,15 @@ Interview with David Carroll, the US professor whose legal battle with Cambridge
 Read the full article:  
 https://www.grcworldforums.com/governance-risk-and-compliance/interview-behind-the-great-hack-with-david-carroll/402.article
 
+
+<img src="images/Hack1.png" width="600">
+
+<img src="images/Hack2.png" width="600">
+
+<img src="images/Hack3.png" width="600">
+
+
+
 ![Article header](TGH_header.png)
 
 ### Dr Cari Miller to Speak at #RISK A.I. Digital
