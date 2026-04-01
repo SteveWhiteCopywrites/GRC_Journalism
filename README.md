@@ -33,9 +33,6 @@ https://www.grcworldforums.com/governance-risk-and-compliance/interview-behind-t
 
 <img src="images/Hack3.png" width="600">
 
-
-![Article header](TGH_header.png)
-
 ### Dr Cari Miller to Speak at #RISK A.I. Digital
 
 Publication: GRC World Forums  
@@ -47,7 +44,7 @@ News feature announcing Dr Cari Miller as a speaker at the #RISK A.I. Digital co
 Read the full article:  
 https://www.grcworldforums.com/governance-risk-and-compliance/dr-cari-miller-to-speak-at-risk-ai-digital/9331.article
 
-![Article header](cari_header.png)
+<img src="images/CariMiller.png" width="600">
 
 ### Meet the Expert: Caro Robson to Speak at #RISK London
 
@@ -60,7 +57,9 @@ News feature announcing international data and technology regulation specialist 
 Read the full article:  
 https://www.grcworldforums.com/information-security/meet-the-expert-caro-robson-to-speak-at-risk-london/8797.article
 
-![Article header](caro_header.png)
+<img src="images/Caro1.png" width="600">
+
+<img src="images/Caro2.png" width="600">
 
 ### Meet the Expert: Women in GRC Speaker, Amii Barnard-Bahn
 
@@ -73,7 +72,9 @@ Profile feature introducing executive coach, strategic advisor and keynote speak
 Read the full article:  
 https://www.grcworldforums.com/meet-the-expert-women-in-grc-speaker-amii-barnard-bahn/3371.article
 
-![Article header](amii_header.png)
+<img src="images/Amy1.png" width="600">
+
+<img src="images/Amy2.png" width="600">
 
 ### Meet the Expert: FinCrime: Anti-Money Laundering Welcomes Sujata Dasgupta
 
@@ -86,7 +87,7 @@ Expert profile announcing financial crime specialist Sujata Dasgupta as a contri
 Read the full article:  
 https://www.grcworldforums.com/banking-financial-services-and-insurance-bfsi/meet-the-expert-fincrime-anti-money-laundering-welcomes-sujata-dasgupta/5279.article
 
-![Article header](sujata_header.png)
+<img src="images/Sujata.png" width="600">
 
 ### NIS2 Directive: Stronger EU Cybersecurity in the AI Era
 
@@ -99,7 +100,11 @@ News feature analysing the European Union’s NIS2 Directive and its implication
 Read the full article:  
 https://www.grcworldforums.com/governance-risk-and-compliance/nis2-directive-stronger-eu-cybersecurity-in-the-ai-era/9678.article
 
-![Article header](nis2_header.png)
+<img src="images/NIS2a.png" width="600">
+
+<img src="images/NIS2b.png" width="600">
+
+<img src="images/NIS2c.png" width="600">
 
 ### Privacy Concerns Slowing UK Decision on Digital Cash
 
@@ -112,7 +117,7 @@ News feature examining how privacy concerns are influencing the UK government’
 Read the full article:  
 https://www.grcworldforums.com/governance-risk-and-compliance/privacy-concerns-slowing-uk-decision-on-digital-cash/9278.article
 
-![Article header](privacy_header.png)
+<img src="images/digitalcash.png" width="600">
 
 ### AI, AML Regulations and Monitoring Centre Stage at FinCrime Focus: Anti-Money Laundering
 
@@ -125,7 +130,9 @@ News coverage from the FinCrime Focus: Anti-Money Laundering event examining how
 Read the full article:  
 https://www.grcworldforums.com/banking-financial-services-and-insurance-bfsi/ai-aml-regulations-and-aml-monitoring-centre-stage-at-fincrime-focus-anti-money-laundering/5303.article
 
-![Article header](AML_header.png)
+<img src="images/aireg1.png" width="600">
+
+<img src="images/aireg2.png" width="600">
 
 ### AI Leading to Reduction in Staff Numbers
 
@@ -138,7 +145,7 @@ News feature examining how the growing adoption of artificial intelligence is ex
 Read the full article:  
 https://www.grcworldforums.com/information-security/ai-leading-to-reduction-in-staff-numbers/9456.article
 
-![Article header](AI_header.png)
+<img src="images/aistaff.png" width="600">
 
 ### Risk and Reward: How AI Is Driving the US Debt Collection Industry
 
@@ -151,4 +158,4 @@ News feature examining how artificial intelligence is transforming the debt-coll
 Read the full article:  
 https://www.grcworldforums.com/information-security/risk-and-reward-how-ai-is-driving-the-us-debt-collection-industry/9361.article
 
-![Article header](Risk_header.png)
+<img src="images/risk1.png" width="600">
