@@ -34,7 +34,6 @@ https://www.grcworldforums.com/governance-risk-and-compliance/interview-behind-t
 <img src="images/Hack3.png" width="600">
 
 
-
 ![Article header](TGH_header.png)
 
 ### Dr Cari Miller to Speak at #RISK A.I. Digital
