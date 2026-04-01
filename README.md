@@ -25,7 +25,11 @@ Read on [GRC World Forums](https://www.grcworldforums.com/governance-risk-and-co
 
 <img src="images/Hack1.png" width="600">
 
+---
+
 <img src="images/Hack2.png" width="600">
+
+---
 
 <img src="images/Hack3.png" width="600">
 
