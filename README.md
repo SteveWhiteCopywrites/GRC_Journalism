@@ -21,6 +21,11 @@ Read on [GRC World Forums](https://www.grcworldforums.com/governance-risk-and-co
 ### Interview: Behind The Great Hack with David Carroll
 **24 July 2019:** Interview with David Carroll, the US professor whose legal battle with Cambridge Analytica became a central narrative in the Netflix documentary *The Great Hack*. The piece explores data rights, political micro-targeting and the growing importance of privacy regulation in the age of big data.
 
+<img src="images/Hack1.png" width="600"><br>
+<img src="images/Hack2.png" width="600"><br>
+<img src="images/Hack3.png" width="600">
+
+
 Read on [GRC World Forums](https://www.grcworldforums.com/governance-risk-and-compliance/interview-behind-the-great-hack-with-david-carroll/402.article)
 
 <img src="images/Hack1.png" width="600"><br>
