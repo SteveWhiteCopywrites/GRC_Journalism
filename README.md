@@ -24,9 +24,13 @@ Read on [GRC World Forums](https://www.grcworldforums.com/governance-risk-and-co
 Read on [GRC World Forums](https://www.grcworldforums.com/governance-risk-and-compliance/interview-behind-the-great-hack-with-david-carroll/402.article)
 
 <img src="images/Hack1.png" width="600">
+
 ---
+
 <img src="images/Hack2.png" width="600">
+
 ---
+
 <img src="images/Hack3.png" width="600">
 
 ### Dr Cari Miller to Speak at #RISK A.I. Digital
