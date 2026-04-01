@@ -2,7 +2,7 @@
 A curated portfolio of Governance, Risk, and Compliance journalism covering news, interviews and features written at GRC World Forums. 
 Topics include: cybersecurity, privacy, financial crime, risk, AI governance, regulatory policy and ESG.
 
-## Featured Work
+## Highlights
 
 • **Interview: Behind The Great Hack with David Carroll**  
 Interview with the data rights activist whose legal battle with Cambridge Analytica became central to the Netflix documentary *The Great Hack*.  
